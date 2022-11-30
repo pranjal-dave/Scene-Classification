@@ -7,7 +7,7 @@ Although humans have an excellent sense of recognizing a place’s scene setting
 
 Below image shows the different kind of images within the dataset along with their classes.
 
-![Scenes]()
+![Scenes](https://github.com/pranjal-dave/Scene-Classification/blob/main/Scenes.png)
 
 ## Challenges
 
@@ -20,4 +20,4 @@ For example, two scenes to be classified as mountains may not be of similar shap
 After trying various CNN models with a softmax function in the end, the 50 layer deep resnet model 
 along with image augmentation performed the best. Below is the confusion matrix for the best performing model.
 
-![Confusion Matrix]()
+![Confusion Matrix](https://github.com/pranjal-dave/Scene-Classification/blob/main/Confusion%20matrix.png)
